@@ -117,14 +117,15 @@ Else → Background
 ### Input Image
 ![Original Input](test_2.jpg)
 
-
 ### Edge Output Verilog Output (Sobel Edges)
 ![Verilog Sobel Output](verilog_edges_output.png)
 
 ###when we running using python_Python Reference Output (Sobel Edges)
 ![Python Sobel Output](edges_output.png)
 
----
+![Original Input](./test_2.jpg)
+![Python Sobel Output](./edges_output.png)
+![Verilog Sobel Output](./verilog_edges_output.png)
 
 ## 📊 Expected Output
 
@@ -167,22 +168,3 @@ Else → Background
 
 ---
 
-## 👩‍💻 Author
-
-**Nishananthy Thevananthan**  
-Electrical & Electronic Engineering Undergraduate  
-University of Peradeniya  
-
-Interested in FPGA, Embedded Systems, AI/ML & Robotics.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Support
-
-If you find this project helpful, consider giving it a ⭐ on GitHub!
