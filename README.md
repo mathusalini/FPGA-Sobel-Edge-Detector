@@ -116,7 +116,7 @@ Else → Background
 ## 🖼️ Sample Results
 
 ### 📌 Input Image
-![Original Input](PASTE_RAW_LINK_FOR_test_2.jpg)
+![Original Input](_test_2.jpg)
 
 ### 📌 Python Reference Output (Sobel Edges)
 ![Python Sobel Output](PASTE_RAW_LINK_FOR_edges_output.png)
