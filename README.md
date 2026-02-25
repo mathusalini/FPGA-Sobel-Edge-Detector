@@ -116,7 +116,7 @@ Else → Background
 ## 🖼️ Sample Results
 
 ### 📌 Input Image
-![Original Input](_test_2.jpg)
+![Original Input]([_test_2.jpg](https://github.com/mathusalini/FPGA-Sobel-Edge-Detector/blob/main/_test_2.jpg))
 
 ### 📌 Python Reference Output (Sobel Edges)
 ![Python Sobel Output](PASTE_RAW_LINK_FOR_edges_output.png)
