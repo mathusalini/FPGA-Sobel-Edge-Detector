@@ -113,19 +113,16 @@ Else → Background
 ---
 
 ## 🖼️ Sample Results
+## 🖼️ Sample Results
 
-### Input Image
-![Original Input](test_2.jpg)
+### 📌 Input Image
+![Original Input](PASTE_RAW_LINK_FOR_test_2.jpg)
 
-### Edge Output Verilog Output (Sobel Edges)
-![Verilog Sobel Output](verilog_edges_output.png)
+### 📌 Python Reference Output (Sobel Edges)
+![Python Sobel Output](PASTE_RAW_LINK_FOR_edges_output.png)
 
-###when we running using python_Python Reference Output (Sobel Edges)
-![Python Sobel Output](edges_output.png)
-
-![Original Input](./test_2.jpg)
-![Python Sobel Output](./edges_output.png)
-![Verilog Sobel Output](./verilog_edges_output.png)
+### 📌 Verilog Output (Sobel Edges)
+![Verilog Sobel Output](PASTE_RAW_LINK_FOR_verilog_edges_output.png)
 
 ## 📊 Expected Output
 
