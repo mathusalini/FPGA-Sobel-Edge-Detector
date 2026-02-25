@@ -115,11 +115,14 @@ Else → Background
 ## 🖼️ Sample Results
 
 ### Input Image
+![Original Input](test_2.jpg)
 
 
-### Edge Output
+### Edge Output Verilog Output (Sobel Edges)
+![Verilog Sobel Output](verilog_edges_output.png)
 
-
+###when we running using python_Python Reference Output (Sobel Edges)
+![Python Sobel Output](edges_output.png)
 
 ---
 
